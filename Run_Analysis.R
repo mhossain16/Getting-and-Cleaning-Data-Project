@@ -1,7 +1,6 @@
-##/*
 ## Getting and Cleaning Data in R 
 ## Week 4: Assignments
-## Md Hossain */
+## Md Hossain 
 
 library(reshape2)
 
