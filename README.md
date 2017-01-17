@@ -1,7 +1,6 @@
-##/*
 ## Getting and Cleaning Data in R 
 ## Week 4: Assignments
-## Md Hossain */
+## Md Hossain
 
 Getting and Cleaning Data - Course Project
 This is the course project for the Getting and Cleaning Data Coursera course. The R script, run_analysis.R, does the following:
@@ -16,5 +15,4 @@ Creates a tidy dataset that consists of the average (mean) value of each variabl
 The end result is shown in the file tidy.txt.
 
 # Getting-and-Cleaning-Data
-# Getting-and-Cleaning-Data
-# Getting-and-Cleaning-Data
+
